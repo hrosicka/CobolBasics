@@ -1,4 +1,13 @@
 # Cobol Basics
+
+[![Beginner Friendly](https://img.shields.io/badge/for-beginners-brightgreen?style=for-the-badge&logo=cobol)](https://github.com/hrosicka/CobolBasics)
+[![COBOL Nostalgia](https://img.shields.io/badge/COBOL-Nostalgia-ff69b4?style=for-the-badge&logo=cobol)](https://github.com/hrosicka/CobolBasics)
+[![Grandma Approved](https://img.shields.io/badge/So%20easy-Your%20grandma%20could%20do%20it-blueviolet?style=for-the-badge&logo=cobol)](https://github.com/hrosicka/CobolBasics)
+[![Console Only](https://img.shields.io/badge/UI-Text%20Only-lightgrey?style=for-the-badge&logo=terminal)](https://github.com/hrosicka/CobolBasics)
+[![Humor Inside](https://img.shields.io/badge/Humor-Inside-yellow?style=for-the-badge&logo=smile)](https://github.com/hrosicka/CobolBasics)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Snack Friendly](https://img.shields.io/badge/Snack%20Breaks-Recommended-orange?style=for-the-badge&logo=coffee)](https://github.com/hrosicka/CobolBasics)
+
 **Calling all retro lovers, modern hipsters, and old-school programmers!**
 
 Tired of Python? Looking for something that will get your blood pumping and your binary neurons firing? Then this repository is for you!
