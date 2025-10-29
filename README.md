@@ -53,3 +53,9 @@ This part contains the program's instructions, which are grouped within a paragr
   - Based on the user's input (ANSWER), it decides whether to repeat the process by using an IF statement.
   - If the answer is "Y", it jumps back to the RepeteCalculation paragraph using the GO TO statement.
 - **STOP RUN:** This statement gracefully terminates the program's execution.
+
+## Author
+Lovingly crafted by [Hanka Robovska](https://github.com/hrosicka) 👩‍🔬
+
+## License
+MIT – Free to use, modify, and distribute as needed.
